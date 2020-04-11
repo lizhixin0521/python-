@@ -1,0 +1,5 @@
+apples   345
+banana   456
+tv       6789
+desk     333
+pea      444

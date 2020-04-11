@@ -1,0 +1,9 @@
+执行操作: login==>name=alex   password=222-----login  successful
+执行操作: check_balance==>当前余额为:0
+执行操作: darw_money==>当前余额为:0  限超出额度:10000  手续费率:0.05------扣除手续费:0.1   取款余额:2   剩余余额（已扣手续费）:-2.1
+执行操作: login==>name=alex   password=222-----login  successful
+执行操作: check_balance==>当前余额为:0
+执行操作: login==>name=alex   password=222-----login  successful
+执行操作: check_balance==>当前余额为:0
+执行操作: login==>name=alex   password=222-----login  successful
+执行操作: darw_money==>当前余额为:0  限超出额度:10000  手续费率:0.05------扣除手续费:499.95000000000005   取款余额:9999   剩余余额（已扣手续费）:-10498.95
